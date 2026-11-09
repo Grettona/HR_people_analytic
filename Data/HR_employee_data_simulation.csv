@@ -1,0 +1,11 @@
+id_employe,department,position_job_title,annual_salary,performance_rating,turnover,termination_reason
+001,ventas,Ejecutivo Comercial,35000,4.5,Si,Mejor oferta salarial
+002,Tecnologia,Analista de Datos,48000,4.8,No,NA
+003,Ventas,Ejecutivo Comercial,34000,3.2,Si,Falta de crecimiento
+004,Marketing,Especialista digital,38000,4.1,No,NA
+005,Tecnologia,Desarrollador,52000,4.9,Si,Mejor oferta laboral
+006,Recursos humanos,Generalista HR,36000,4.4,No,NA
+007,Ventas,Supervisor ventas,45000,4.7,Si,Clima laboral
+008,Tecnologia,Analista de datos,47000,3.9,No,NA
+009,Marketing,Coordinador,41000,4.6,No,NA
+010,Ventas,Ejecutivo Comercial,33000,2.8,Si,Clima Laboral
